@@ -1,4 +1,5 @@
-## Hi there 👋
+# Current Projects
+- nnav | Notes Navigator
 
 <!--
 **brianmcjilton/brianmcjilton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
